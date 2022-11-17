@@ -1,3 +1,3 @@
-Visma Financial Solutions AS
+### Visma Financial Solutions AS
 
-Happy Codin'
+Happy Codin' 🤓
